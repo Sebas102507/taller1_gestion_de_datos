@@ -2,6 +2,10 @@
 
 Juan Sebastian Vargas Torres
 
+🤖 Video explicativo ->> https://youtu.be/guDStTRt0Co
+
+
+
 El análisis de las preguntas se puede encontrar con mayor detalle en el notebook.
 
 
