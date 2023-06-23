@@ -1,205 +1,191 @@
-# taller1_gestion_de_datos
+# Violence Analysis in Colombia
 
 Juan Sebastian Vargas Torres
 
-🤖 Video explicativo ->> https://youtu.be/guDStTRt0Co
+🤖 Explanatory video ->> https://youtu.be/guDStTRt0Co
+
+The analysis of the questions can be found in greater detail in the notebook.
+
+Chosen daframes:
+
+-Sex crimes
+-Domestic Violence
+-Kidnapping
+homicides
+
+After cleaning, the questions were answered:
+
+-Sex crimes
+
+Question 1:
+
+The 3 departments most affected by cases of sexual violence in the last 5 years are:
+
+1) CUNDINAMARCA: 28363
+
+2) ANTIOQUIA: 18832
+
+3) VALLEY: 12429
 
 
+Question 2:
 
-El análisis de las preguntas se puede encontrar con mayor detalle en el notebook.
+Although in most cases there was no use of a weapon, it can be observed that the most used weapon was blunt objects.
 
+Question 3:
 
-Daframes escogidos:
+It is possible to observe that the age group that suffers the most crime is that of minors, followed by adults and then adolescents.
 
--Delitos sexuales
--Violencia Intrafamiliar
--Secuestro
-Homicidios
+For the Adolescent age group, it is possible to observe an increasing trend in the number of cases for both men and women in the period 2011-2021, followed by a decreasing trend in subsequent years.
 
-Tras la limpieza se respondieron las preguntas:
+For the Adult age group, it is possible to observe an increasing trend in the number of cases for both men and women in the period 2011-2018, followed by a decreasing trend in subsequent years.
 
+For the Minors age group, it is possible to observe an increasing trend in the number of cases for both men and women in the period 2011-2019, followed by a decreasing trend in subsequent years.
 
--Delitos sexuales
+Question 4:
 
-Pregunta 1:
+It can be observed that there is a tendency for more sexual crimes to take place in the month of January.
 
-Los 3 departamentos más afectados por casos de violencia sexual en los últimos 5 años son: 
+Question 5:
 
-1) CUNDINAMARCA:    28363
+It is possible to observe that the most frequent modality regarding sexual crimes is sexual acts with children under 14 years of age.
 
-2) ANTIOQUIA:       18832
+-Domestic Violence:
 
-3) VALLE:           12429
+Question 1:
 
+The 3 departments most affected by cases of sexual violence in the last 5 years are:
 
-Pregunta 2:
+1) CUNDINAMARCA: 63120
 
-Aunque en la mayoría de los casos no hubo empleo de un arma, se puede obsevar que el arma más usada fueron objetos contundentes.
+2) ANTIOCH: 38114
 
-
-Pregunta 3:
-
-Se logra obsevar que el grupo etario que más delito sufre es el de menores, seguido de adultos y luego de adolescentes.
+3) VALLEY: 23103
 
 
-Para el grupo etario Adolescentes, logra observar una tendencia creciente del número de casos tanto para hombre como para mujeres en el periodo de 2011-2021, seguido de una tendencia decreciente en los posteriores años.
+Question 2:
 
-Para el grupo etario Adultos, logra observar una tendencia creciente del número de casos tanto para hombre como para mujeres en el periodo de 2011-2018, seguido de una tendencia decreciente en los posteriores años.
-
-Para el grupo etario Menores, logra observar una tendencia creciente del número de casos tanto para hombre como para mujeres en el periodo de 2011-2019, seguido de una tendencia decreciente en los posteriores años.
-
-Pregunta 4:
-
-Se logra observar que existe una tendencia a que se produscan más delitos sexuales en el mes de enero.
+It can be seen that the most used weapon were blunt objects.
 
 
-Pregunta 5:
+Question 3:
 
-Se logra obsevar que la modalidad más frecuente respecto a los delitos sexuales, es actos sexuales con menores de 14 años.
-
-
-
--Violencia Intrafamiliar:
-
-Pregunta 1:
-
-Los 3 departamentos más afectados por casos de violencia sexual en los últimos 5 años son: 
-
-1) CUNDINAMARCA:    63120
-
-2) ANTIOQUIA:       38114
-
-3) VALLE:           23103
+It is possible to observe that the age group that suffers the most crime is that of adults, followed by adolescents and minors.
 
 
-Pregunta 2:
+For the Adolescent age group, it manages to observe a constant trend with a slight growth in the number of cases for both men and women.
 
-Se puede obsevar que el arma más usada fueron objetos contundentes.
+For the Adult age group, it is possible to observe an increasing trend in the number of cases for both men and women in the period 2010-2020, followed by a decreasing trend in subsequent years.
+
+For the Minors age group, it is possible to observe an increasing trend in the number of cases for both men and women in the period 2010-2020, followed by a decreasing trend in subsequent years.
+
+Question 4:
+
+It is possible to observe that there is a tendency for more crimes of intrafamily violence to occur in the month of January.
+
+Question 5:
+
+NA
+
+-Kidnapping:
+
+Question 1:
+
+The 3 departments most affected by cases of sexual violence in the last 5 years are:
+
+1) ANTIOCH: 71
+
+2) CAUCA VALLEY : 71
+
+3) NORTH OF SANTANDER: 57
 
 
-Pregunta 3:
-
-Se logra obsevar que el grupo etario que más delito sufre es el de adultos, seguido de adolescentes y menores.
-
-
-Para el grupo etario Adolescentes, logra observar una tendencia constante con un leve crecimiento del número de casos tanto para hombre como para mujeres.
-
-Para el grupo etario Adultos, logra observar una tendencia creciente del número de casos tanto para hombre como para mujeres en el periodo de 2010-2020, seguido de una tendencia decreciente en los posteriores años.
-
-Para el grupo etario Menores, logra observar una tendencia creciente del número de casos tanto para hombre como para mujeres en el periodo de 2010-2020, seguido de una tendencia decreciente en los posteriores años.
-
-Pregunta 4:
-
-Se logra observar que existe una tendencia a que se produscan más delitos de violencia intrafamiliar en el mes de enero.
-
-
-Pregunta 5:
-
+Question 2:
 
 NA
 
 
-
--Secuestro:
-
-Pregunta 1:
-
-Los 3 departamentos más afectados por casos de violencia sexual en los últimos 5 años son: 
-
-1) ANTIOQUIA:    71
-
-2) VALLE DEL CAUCA : 71
-
-3) NORTE DE SANTANDER:  57
-
-
-Pregunta 2:
+Question 3:
 
 NA
 
 
-Pregunta 3:
+Question 4:
 
-NA
-
-
-Pregunta 4:
-
-Se logra observar que existe una tendencia a que se produscan más delitos de violencia intrafamiliar en el mes de marzo.
+It can be observed that there is a tendency for more crimes of domestic violence to occur in the month of March.
 
 
-Pregunta 5:
+Question 5:
 
-Como se puede ver, el delito más coúmn respecto a delitos de secuestro, son los secuestros extorsivos.
+As can be seen, the most common crime regarding kidnapping crimes is kidnapping for extortion.
 
 
 
--Homicidios:
+-Homicides:
 
-Pregunta 1:
+Question 1:
 
-Los 3 departamentos más afectados por casos de violencia sexual en los últimos 5 años son: 
+The 3 departments most affected by cases of sexual violence in the last 5 years are:
 
-1) CUNDINAMARCA:    3387
+1) CUNDINAMARCA: 3387
 
-2) ANTIOQUIA:       3342
+2) ANTIOCH: 3342
 
-3) VALLE:           2812
-
-
-Pregunta 2:
-Aunque en la mayoría de los casos no hubo empleo de un arma, se puede obsevar que el arma más usada fueron vehículos.
-
-Pregunta 3:
-
-Se logra obsevar que el grupo etario que más delito sufre es el de menores, seguido de adultos y luego de adolescentes.
+3) VALLEY: 2812
 
 
-Para el grupo etario Adolescentes, logra observar una tendencia creciente del número de casos tanto para hombre como para mujeres en el periodo de 2011-2021, seguido de una tendencia decreciente en los posteriores años.
+Question 2:
+Although in most cases there was no use of a weapon, it can be observed that the most used weapon was vehicles.
 
-Para el grupo etario Adultos, logra observar una tendencia creciente del número de casos tanto para hombre como para mujeres en el periodo de 2011-2018, seguido de una tendencia decreciente en los posteriores años.
+Question 3:
 
-Para el grupo etario Menores, logra observar una tendencia creciente del número de casos tanto para hombre como para mujeres en el periodo de 2011-2019, seguido de una tendencia decreciente en los posteriores años.
-
-
-Pregunta 4:
-Se logra observar que existe una tendencia a que se produscan más delitos sexuales en el mes de enero.
+It is possible to observe that the age group that suffers the most crime is that of minors, followed by adults and then adolescents.
 
 
-Pregunta 5:
-Se logra obsevar que la modalidad más frecuente respecto a los homicidios, son los homicidios culposos (en accidente de tránsito)
+For the Adolescent age group, it is possible to observe an increasing trend in the number of cases for both men and women in the period 2011-2021, followed by a decreasing trend in subsequent years.
+
+For the Adult age group, it is possible to observe an increasing trend in the number of cases for both men and women in the period 2011-2018, followed by a decreasing trend in subsequent years.
+
+For the Minors age group, it is possible to observe an increasing trend in the number of cases for both men and women in the period 2011-2019, followed by a decreasing trend in subsequent years.
 
 
-Punto 3:
-
-Se logra obsevar que una tendecia decreciente de delitos sexuales desde el año 2018 cada uno de los top departamentos.
-
-Se puede obsevar que el entre los meses de Abril y Agosto se presentan picos de delitos sexuales para la mayoría de los últimos 5 años.
-
-El departamento en el que más delitos se cometen por cantidad de habitantes es Cundinamarca.
-
-Gráfico disponible en el notebook.
+Question 4:
+It can be observed that there is a tendency for more sexual crimes to take place in the month of January.
 
 
-Punto 4:
-
-Tabla disponible en el notebook.
-
-
-Conclusiones:
-
-- Se logró observar que en regiones como Cartagena y Medellín se presentaron altas tasas de delitos asociadas al delitos sexuales y violencia intrafamiliar, secuestro y homicidio.
-
-- Se recomienda prestar antención al mes de Enero ya que es donde se cometen más delitos de los mencionados anteriormente.
-
-- Boyacá es el departamento con mayor cantidad de delitos sexuales x cantidad de habitantes.
-
-- Es envidente que el género femenino es el más afectado para tipos de delitos asociados a los delitos sexuales y violencia intrafamiliar, aunque el género masculino presenta altas tasas de homicidios.
-
-- Aunque la cantidad de los distintos tipos tuvo un tendencia crenciente hasta el 2020, se reconoce que desde el 2021 se han presentado fuertes caídas en dichos delitos.
+Question 5:
+It is possible to observe that the most frequent modality with respect to homicides are culpable homicides (in a traffic accident).
 
 
-- Resulta importante trabajar de la mano de las alcandías con el fin de que se lleven a cabo campañas que reduscan las estadísticas presentadas en este notebook.
+Point 3:
+
+It is possible to observe that a decreasing trend of sexual crimes since 2018 each of the top departments.
+
+It can be observed that between the months of April and August there are peaks of sexual crimes for most of the last 5 years.
+
+The department in which the most crimes are committed by number of inhabitants is Cundinamarca.
+
+Chart available in notebook.
+
+
+Point 4:
+
+Table available in the notebook.
+
+Conclusions:
+
+- It was possible to observe that in regions such as Cartagena and Medellín there were high rates of crimes associated with sexual crimes and intrafamily violence, kidnapping and homicide.
+
+- It is recommended to pay attention to the month of January since it is where more crimes than those mentioned above are committed.
+
+- Boyacá is the department with the highest number of sexual crimes x number of inhabitants.
+
+- It is clear that the female gender is the most affected for types of crimes associated with sexual offenses and intrafamily violence, although the male gender has high homicide rates.
+
+- Although the number of different types had a growing trend until 2020, it is recognized that since 2021 there have been sharp falls in said crimes.
+
+
+- It is important to work hand in hand with the mayor's offices in order to carry out campaigns that reduce the statistics presented in this notebook.
 
 
 
