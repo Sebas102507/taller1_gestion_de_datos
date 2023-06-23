@@ -1,5 +1,8 @@
 # Violence Analysis in Colombia
 
+<img width="203" alt="Screenshot 2023-06-23 at 8 46 20 AM" src="https://github.com/Sebas102507/taller1_gestion_de_datos/assets/52805660/68db788b-126c-4701-a58d-609c90a6f969">
+
+
 Juan Sebastian Vargas Torres
 
 🤖 Explanatory video ->> https://youtu.be/guDStTRt0Co
